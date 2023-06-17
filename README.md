@@ -5,11 +5,12 @@
 - 📫 E-mail de contato: josevaldirfilho@yahoo.com.br
 
 
-<div align="center">
+<div align="">
 <a href="https://github.com/josevaldirfilho">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=josevaldirfilho&show_icons=true&theme=dracula&include_all_commits=true&private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevaldirfilho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Dev-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
