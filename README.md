@@ -1,4 +1,4 @@
-### Olá! Eu sou o José Valdir Filho
+### Olá! Eu sou o José Valdir Calixto
 
 - 🔭 Atualmente Trabalho com Front-End
 - 🌱 Desenvolvendo sites e landing pages com HTML, CSS e JAVASCRIPT. 
