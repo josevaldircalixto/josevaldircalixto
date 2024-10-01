@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente Trabalho com Front-End
 - 🌱 Desenvolvendo sites e landing pages com HTML, CSS e JAVASCRIPT. 
-- 📫 E-mail de contato: josevaldircalixto@yahoo.com.br
+- 📫 E-mail de contato: josevaldirdev@gmail.com
 
 
 <div align="">
