@@ -3,6 +3,7 @@
 - 🔭 Atualmente Trabalho com Front-End
 - 🌱 Desenvolvendo sites e landing pages com HTML, CSS, JAVASCRIPT e REACT. 
 - 📫 E-mail de contato: josevaldirdev@gmail.com
+- 💻 Portfólio: https://portfolio-jvc.vercel.app/
 
 
 <div align="">
